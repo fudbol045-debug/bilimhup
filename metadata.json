@@ -1,0 +1,6 @@
+{
+  "name": "BilimHub AI — Ta'lim va Sun'iy Intellekt Platformasi",
+  "description": "BilimHub AI — o‘quvchilar, talabalar, o‘qituvchilar va o‘quv markazlari uchun AI yordamchilari, 5 200+ slayd dizaynlari, kurslar, Telegram to‘lovlari va reklama xizmatlari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
